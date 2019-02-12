@@ -1,0 +1,19 @@
+17
+A 8 10 663 Thor Anau Who, What, and When
+A 12 9 485 Smith John C++ for All
+A 8 10 444 Simpson Bob The Python Way
+L Reallyknow Idont 12 15 18 Who, What, and When
+L Thompson Jan 12 01 18 The Python Way
+A 12 9 301 Thor Anau Infinity and Beyond
+A 11 8 599 Smith John Java Starter Edition
+L Johnson Sally 12 01 18 C++ for All
+L Johnson Susan 12 01 18 Infinity and Beyond
+A 5 7 233 Johnson Susan An Apple A Day
+A 5 8 333 Copperfiled Jane The Practice
+L Work ThisShouldnt 12 31 18 The Python Way
+L Not ABook 12 02 18 FakeBookShouldntLoan
+A 10 10 100 Test Author LoanerBook
+L Sec Giv 12 20 18 LoanerBook
+R C++ for All
+L Grisham John 12 30 18 The Practice
+
